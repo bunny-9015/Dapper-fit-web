@@ -1,0 +1,122 @@
+[
+  {
+    "payoutRate": 6000,
+    "username": "kamathamlokesh1234@gmail.com",
+    "email": "kamathamlokesh1234@gmail.com",
+    "status": "Active",
+    "id": "emp-1784187312734-878141",
+    "name": "Lokesh Kamatham",
+    "phone": "7702049015",
+    "password": "lokesh123",
+    "role": "Operations Manager",
+    "joiningDate": "2026-07-16"
+  },
+  {
+    "username": "hemacj4@gmail.com",
+    "payoutRate": 5000,
+    "id": "emp-1784188077738-869172",
+    "joiningDate": "2026-07-16",
+    "email": "hemacj4@gmail.com",
+    "role": "Inventory Lead",
+    "status": "Active",
+    "name": "hema",
+    "password": "Password@123",
+    "phone": "7483350191"
+  },
+  {
+    "payoutRate": 5000,
+    "email": "kala88309@gmail.com",
+    "status": "Active",
+    "role": "Inventory Lead",
+    "username": "kala88309@gmail.com",
+    "name": "shashikala",
+    "id": "emp-1784188138953-577848",
+    "phone": "7899388146",
+    "joiningDate": "2026-07-16",
+    "password": "shashikala@9038"
+  },
+  {
+    "id": "emp-1784188185987-272514",
+    "payoutRate": 6000,
+    "phone": "8919444856",
+    "joiningDate": "2026-07-16",
+    "status": "Active",
+    "username": "srinuseeker@gmail.com",
+    "password": "nani@9444",
+    "role": "Inventory Lead",
+    "email": "srinuseeker@gmail.com",
+    "name": "nani"
+  },
+  {
+    "password": "dappers@1407",
+    "payoutRate": 5000,
+    "joiningDate": "2026-07-16",
+    "phone": "8867138097",
+    "id": "emp-1784188230489-614248",
+    "email": "chaithra1407@gmail.com",
+    "name": "chaithra",
+    "status": "Active",
+    "username": "chaithra1407@gmail.com",
+    "role": "Fulfillment Executive"
+  },
+  {
+    "payoutRate": 5000,
+    "phone": "6360460700",
+    "joiningDate": "2026-08-04",
+    "username": "mshravyarose2009@gmail.com",
+    "name": "shravya",
+    "role": "Inventory Lead",
+    "email": "mshravyarose2009@gmail.com",
+    "id": "emp-1785839478713-940611",
+    "password": "dappersfit@1616",
+    "status": "Active"
+  },
+  {
+    "email": "devi@dappersfit.com",
+    "payoutRate": 5000,
+    "status": "Active",
+    "role": "Inventory Lead",
+    "username": "devi@dappersfit.com",
+    "name": "Devi",
+    "id": "emp-1786373819809-790635",
+    "phone": "7981601499",
+    "joiningDate": "2026-08-10",
+    "password": "dappersfit@1601"
+  },
+  {
+    "email": "bindhugowda344@gmail.com",
+    "id": "emp-1787151991304-401419",
+    "status": "Active",
+    "role": "Inventory Lead",
+    "name": "Bindhu",
+    "password": "Dappersfit@5476",
+    "phone": "9945347898",
+    "username": "bindhugowda344@gmail.com",
+    "payoutRate": 5000,
+    "joiningDate": "2026-08-19"
+  },
+  {
+    "payoutRate": 35000,
+    "username": "milangowda758@gmail.com",
+    "id": "emp-1788261498638-124761",
+    "email": "milangowda758@gmail.com",
+    "password": "Dappersfit@3006",
+    "status": "Active",
+    "phone": "8970609059",
+    "joiningDate": "2026-09-01",
+    "role": "Fulfillment Executive",
+    "name": "Milan"
+  },
+  {
+    "id": "emp-1788863135354-115065",
+    "payoutRate": 5000,
+    "password": "dappersfit@3006",
+    "phone": "9441414439",
+    "role": "Inventory Lead",
+    "joiningDate": "2026-09-08",
+    "username": "dhanasatyasrikalaga@gmail.com",
+    "name": "dhanu sri",
+    "status": "Active",
+    "email": "dhanasatyasrikalaga@gmail.com"
+  }
+]
